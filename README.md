@@ -1,2 +1,3 @@
 # testgit
-advance git first 
+advance git first
+naxt generate  commit
